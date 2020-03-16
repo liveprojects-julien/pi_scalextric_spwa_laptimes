@@ -102,4 +102,9 @@ input[type=range][orient=vertical]
     padding: 0 5px;
 }
 
+div#channelDiv{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
 
